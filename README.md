@@ -2,10 +2,10 @@
 
 <p align="left"> 
   Hi, my name is Andrew and I'm an 18 year old front end software developer</strong>.<br>
-  I have always been passionate about technology and its aspects. I specialize in creating dynamic,
+  I have always been passionate about technology and its aspects. <br>I specialize in creating dynamic,
   easy-to-use interfaces that provide a seamless experience for users. As a hobby when I was younger,
   I also explored design and developed a keen eye for aesthetics that I use to enhance the functionality
-  of my apps. I am constantly looking to learn new things and stay up to date with the latest advances in my field.
+  of my apps. <br>I am constantly looking to learn new things and stay up to date with the latest advances in my field.
 </p>
 
 <p align="left">
