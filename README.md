@@ -1,16 +1,30 @@
-### Hi there 👋
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
-<!--
-**drewdevelopment/drewdevelopment** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="left"> 
+  Hi, my name is Andrew and I'm an 18 year old front end software developer</strong>.<br>
+  I have always been passionate about technology and its aspects. I specialize in creating dynamic,
+  easy-to-use interfaces that provide a seamless experience for users. As a hobby when I was younger,
+  I also explored design and developed a keen eye for aesthetics that I use to enhance the functionality
+  of my apps. I am constantly looking to learn new things and stay up to date with the latest advances in my field.
+</p>
 
-Here are some ideas to get you started:
+<p align="left">
+  🥷 Skills: <strong>React.js, TypeScript & Node.js.</strong>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="left">
+  🌐 Tools: <strong>Visual Studio Code & Figma.</strong>
+</p>
+
+<p align="left">
+  💌 Contact: ⤵️
+</p>
+
+  <a href="#" alt="Linkedin">
+  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/andrewgerez/" /></a>
+
+  <a href="#" alt="Instagram">
+  <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=https://www.instagram.com/vampiredvil"/></a>
+</p>  
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gerezdeveloper&show_icons=true)
