@@ -9,7 +9,7 @@
 </p>
 
 <p align="left">
-  🥷 Skills: <strong>React.js, TypeScript & Node.js.</strong>
+  🥷 Skills: <strong>React.js, TypeScript, JavaScript & Styled-Components.</strong>
 </p>
 
 <p align="left">
