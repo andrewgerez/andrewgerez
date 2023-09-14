@@ -9,7 +9,7 @@
 </p>
 
 <p align="left">
-  🥷 Skills: <strong>React.js, Next.js, Laravel, TypeScript, JavaScript, Styled-Components & Tailwind.</strong>
+  🥷 Main skills: <strong>React.js, Next.js, Laravel, TypeScript, Prisma, Styled-Components & Tailwind.</strong>
 </p>
 
 <p align="left">
