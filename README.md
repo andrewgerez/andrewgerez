@@ -9,11 +9,11 @@
 </p>
 
 <p align="left">
-  🥷 Main skills: <strong>React.js, Next.js, Laravel, TypeScript, Prisma, Styled-Components & Tailwind.</strong>
+  🥷 Main skills: <strong>React.js, Next.js, Laravel, TypeScript, Prisma, Styled-Components, Stitches & Tailwind.</strong>
 </p>
 
 <p align="left">
-  🌐 Tools: <strong>Visual Studio Code, Figma, Adobe PS & Adobe AE.</strong>
+  🌐 Tools: <strong>Visual Studio Code, Figma, Storybook, Adobe PS & Adobe AE.</strong>
 </p>
 
 <p align="left">
