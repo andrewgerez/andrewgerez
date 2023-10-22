@@ -13,7 +13,7 @@
 </p>
 
 <p align="left">
-  🌐 Tools: <strong>Visual Studio Code & Figma.</strong>
+  🌐 Tools: <strong>Visual Studio Code, Figma, Adobe PS & Adobe AE.</strong>
 </p>
 
 <p align="left">
