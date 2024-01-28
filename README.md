@@ -1,13 +1,13 @@
 <h1> Whats up, i'm Andrew Gerez! 🥷</h1>
 
 <div> 
-     <a href="" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
+     <a href="https://www.instagram.com/flawssouls/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
      <a href="https://www.linkedin.com/in/andrewgerez/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
  </div>
 <h2 align="left">
 #Never stop learning.
 </h2>
-<p>Hi, my name is Andrew and I'm an 19 year old software developer at Watch Brasil</strong>.<br>
+<p>Hi, my name is Andrew and I'm an 19 year old software developer.</strong>.<br>
   I have always been passionate about technology and its aspects. I specialize in creating dynamic,
   easy-to-use interfaces that provide a seamless experience for users. As a hobby when I was younger,
   I also explored design and developed a keen eye for aesthetics that I use to enhance the functionality
