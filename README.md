@@ -7,11 +7,10 @@
 <h2 align="left">
 #Never stop learning.
 </h2>
-<p>Hi, my name is Andrew and I'm an 19 year old software developer.</strong>.<br>
-  I have always been passionate about technology and its aspects. I specialize in creating dynamic,
-  easy-to-use interfaces that provide a seamless experience for users. As a hobby when I was younger,
-  I also explored design and developed a keen eye for aesthetics that I use to enhance the functionality
-  of my apps. I am constantly looking to learn new things and stay up to date with the latest advances in my field.
+<p>
+     Hey there! My name is Andrew Gerez, and I'm a 19-year-old software development enthusiast. My aim is to deliver scalable and comprehensive solutions for users. I have a passion for JavaScript, and my expertise revolves around technologies such as React.js,      
+     Next.js, Node.js, Fastify, and Nest.js. Recently, I've also been dedicating myself to working with Laravel(PHP). I'm constantly striving to expand my knowledge and skills to provide increasingly effective and innovative solutions in the field of software 
+     development.
 </p>
   
 <br>
@@ -19,7 +18,7 @@
 <p>Main skills: </p>
 <div align="left">
 
-![Skills](https://skillicons.dev/icons?i=js,ts,nodejs,react,next,laravel,spring,tailwind,vite,git,figma,vscode)
+![Skills](https://skillicons.dev/icons?i=js,ts,nodejs,nest,react,next,laravel,kotlin,mysql,postgres,docker,styledcomponents,tailwind,vite)
 
   </div>
   
