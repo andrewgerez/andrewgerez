@@ -8,7 +8,7 @@
 #Never stop learning.
 </h2>
 <p>
-     Hey there! My name is Andrew Gerez, and I'm a 19-year-old software development enthusiast. My aim is to deliver scalable and comprehensive solutions for users. I have a passion for JavaScript, and my expertise revolves around technologies such as React.js,      
+     Hey there! My name is Andrew Gerez, and I'm a 19-year-old software development enthusiast and a TV software developer at Watch Brasil. My aim is to deliver scalable and comprehensive solutions for users. I have a passion for JavaScript, and my expertise revolves around technologies such as React.js,      
      Next.js, Node.js, Fastify, and Nest.js. Recently, I've also been dedicating myself to working with Laravel(PHP). I'm constantly striving to expand my knowledge and skills to provide increasingly effective and innovative solutions in the field of software 
      development.
 </p>
