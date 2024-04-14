@@ -22,5 +22,5 @@
 
   </div>
   
-  | ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=andrewgerez&theme=nord_dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=andrewgerez&hide=Html&theme=nord_dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=andrewgerez&theme=nord_dark) |
+  | ![](https://github-readme-stats.vercel.app/api?username=andrewgerez&theme=nord&show_icons=true&include_all_commits=true) | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=andrewgerez&hide=Html&theme=nord_dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=andrewgerez&theme=nord_dark) |
 | :-: | :-: | :-: |
