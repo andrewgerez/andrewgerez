@@ -1,4 +1,4 @@
-<h1> Whats up, i'm Andrew Gerez! 🥷</h1>
+                                                                                               <h1> Whats up, i'm Andrew Gerez! 🥷</h1>
 
 <div> 
      <a href="https://www.instagram.com/flawssouls/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
@@ -22,6 +22,6 @@
 
   </div>
   
-| <a href="https://github.com/andrewgerez/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=andrewgerez&show_icons=true&include_all_commits=true&theme=nord&hide_border=true&hide=issues,contribs" alt="Andrew Gerez github stats" /></a> | <a href="https://github.com/andrewgerez/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andrewgerez&layout=compact&theme=nord&hide_border=true" /></a> |
+| <a href="https://github.com/andrewgerez/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=andrewgerez&show_icons=true&include_all_commits=true&theme=nord&hide_border=true&hide=contribs" alt="Andrew Gerez github stats" /></a> | <a href="https://github.com/andrewgerez/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andrewgerez&layout=compact&theme=nord&hide_border=true" /></a> |
 | ------------- | ------------- |
 
