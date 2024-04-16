@@ -22,5 +22,6 @@
 
   </div>
   
-  | ![](https://github-readme-stats.vercel.app/api?username=andrewgerez&theme=nord&show_icons=true&include_all_commits=true) | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=andrewgerez&hide=Html&theme=nord_dark) | ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=andrewgerez&theme=nord_dark) |
-| :-: | :-: | :-: |
+| <a href="https://github.com/andrewgerez/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=andrewgerez&show_icons=true&include_all_commits=true&theme=nord&hide_border=true&hide=issues,contribs" alt="Andrew Gerez github stats" /></a> | <a href="https://github.com/andrewgerez/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andrewgerez&layout=compact&theme=nord&hide_border=true" /></a> |
+| ------------- | ------------- |
+
