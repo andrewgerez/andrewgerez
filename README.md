@@ -9,7 +9,7 @@
 <p>
 Hi! I'm Andrew Gerez, a software development enthusiast and JavaScript lover. My goal is to deliver scalable and comprehensive solutions for users. My key skills include React, Next.js, NestJS, Laravel, and Kotlin. I have extensive experience working with various platforms such as Web, Mobile, and Smart TVs.
 
-I have a deep passion for performance, optimization, and fluidity in applications. Seeing an application run at a high frame rate truly excites me, driving my dedication to delve deeply into performance improvement areas. Whether it's state management, different types of DOM, Canvas, or more, I'm committed to enhancing every aspect of application performance.
+I have a deep passion for performance, optimization, and fluidity in applications. Seeing an application run at a high frame rate truly excites me, driving my dedication to delve deeply into performance improvement areas. Whether it's state management, manipulation of different DOM types, Canvas, or more, I'm committed to enhancing every aspect of application performance.
 
  I'm constantly striving to expand my knowledge and skills to provide increasingly effective and innovative solutions in the field of software development.
 </p>
