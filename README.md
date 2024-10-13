@@ -9,7 +9,7 @@
 <p>
 A software engineer dedicated to building scalable, high-performance solutions across Web, Mobile, and Smart TVs. I love working on optimizations and improving application performance, focusing on state management, WebGL, DOM manipulation, and creating fluid user interfaces.
 
-What excites me the most is the challenge of making applications faster and more responsive. Whether it’s fine-tuning load times or ensuring smooth animations, I strive to deliver seamless experiences that feel effortless. My optimizations have resulted in applications that not only perform well but also scale efficiently, handling heavy loads with ease.
+What excites me the most is the challenge of making applications faster and more responsive. Whether it’s fine-tuning load times or ensuring smooth animations, I strive to deliver seamless experiences that feel effortless.
 </p>
   
 <br>
